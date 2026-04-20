@@ -6,7 +6,7 @@ Exceptions
 what?
 how?
 Own exceptions (throw)
-
+when only option (constructors, destructors)
 
 what for? overuse?
 Lets see "Golang"-style
